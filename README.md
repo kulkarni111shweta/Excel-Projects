@@ -1,5 +1,5 @@
 # Excel Project: 
-Dependencies:
+## Dependencies:
 - Power Query 
 - Macro
 - Mathematical Functions: addition, subtraction, multiplication, division, etc. Examples include SUM, AVERAGE, and PRODUCT
